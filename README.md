@@ -1,2 +1,2 @@
 # DMW_Sem5
-Contains data mining and warehousing codes and assignments
+contains code implementations and practice files related to the data mining and warehousing
